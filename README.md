@@ -89,7 +89,7 @@ see the e-paper display showing for the first time your weather forecast.
 I create a youtube video to showcase this project and highlight some of the main 
 aspects about the source code. Check it out here:
 
-[youtube video](https://www.youtube.com...)
+[youtube video](https://www.youtube.com/watch?v=4-IhC7Kmzh4)
 
 
 ## Original Design
