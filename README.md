@@ -4,7 +4,7 @@
 ## Description
 
 This is a modified version of an existing project of Nick Koumaris. 
-The project uses a 6 color e-paper display (600x480 pixels) from InkPlate 
+The project uses a 6 color e-paper display (600x448 pixels) from InkPlate 
 (now Soldered) to display the weather forecast and indoor temperature, humidity, 
 and pressure. His original project is availbale here: 
 
